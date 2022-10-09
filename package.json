@@ -1,0 +1,23 @@
+{
+  "name": "timeout-creator",
+  "version": "1.0.0",
+  "description": "simple package to create async time out to handel real delay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/mostafaadil/timeout-creator.git"
+  },
+  "keywords": [
+    "timeout",
+    "dealy",
+    "time",
+    "counter",
+    "sleep",
+    "duration"
+  ],
+  "author": "mostafaharran",
+  "license": "ISC"
+}
